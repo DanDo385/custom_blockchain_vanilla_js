@@ -1,2 +1,2 @@
-# DanDo_custom_blockchain
-build my own blockchain using JS
+# custom_blockchain_vanilla_js
+build my own blockchain using Vanilla JS
